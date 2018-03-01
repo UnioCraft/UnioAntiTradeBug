@@ -1,0 +1,3 @@
+messages:
+  chatDenied: '&cYou can''t talk while trading!'
+  commandDenied: '&cYou can''t use command while trading!'

@@ -1,0 +1,6 @@
+author: UnioDex
+main: me.UnioDex.AntiTradeBug.Main
+name: UnioAntiTradeBug
+url: http://uniocraft.com/
+version: 1.0
+depend: [TradeMe]
